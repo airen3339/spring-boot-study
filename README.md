@@ -304,18 +304,4 @@ JAVA爬虫框架源码：https://github.com/hemin1003/java-spider
 
 <br/>
 
-## [关于我](http://heminit.com/about/)
 
-欢迎交流问题，可加我的个人QQ 469580884，或群号 751925591，一起探讨交流问题
-
-[我的博客地址](http://blog.csdn.net/hemin1003)
-
-[个人域名](http://heminit.com)
-
-<br/>
-
-## 感谢
-如果觉得内容赞，您可以请我喝杯咖啡：
-<br/>
-<img src="./pay/wechat.jpeg" width="240px" height="240px" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./pay/alipay.jpeg" width="240px" height="240px" />
